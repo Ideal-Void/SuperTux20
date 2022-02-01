@@ -5,7 +5,7 @@ I like to program in my spare time. I'm actually part of a game development team
 #### Here are some programming languages I know
 |Node.js|Python|Bash|Web|
 |----|------|----------|------------------|
-![JavaScript](src/js.png) | ![Python](src/py.png) 3.9 | ![Bash](src/bash.png) 5 | ![HTML](src/html.png)
+![JavaScript](src/js.png) 16.9.1 | ![Python](src/py.png) 3.9.5 | ![Bash](src/bash.png) 5.0.17 | ![HTML](src/html.png) 5
 
 Check out the [Pengaelic Bot](https://github.com/SuperTux20/Pengaelic-Bot), I've been working on it for ages, but I haven't done much with it lately because I don't have time.
 
