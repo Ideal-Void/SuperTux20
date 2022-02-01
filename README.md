@@ -2,6 +2,11 @@
 
 I like to program in my spare time. I'm actually part of a game development team too, [Weaververse Entertainment](https://github.com/Weaververse-Entertainment)
 
+#### Here are some programming languages I know
+|Node.js|Python|Bash|Web apps|
+|----|------|----------|------------------|
+![JavaScript](src/js.png) | ![Python](src/py.png) 3.9 | ![Bash](src/bash.png) 5 | ![HTML](src/html.png)
+
 Check out the [Pengaelic Bot](https://github.com/SuperTux20/Pengaelic-Bot), I've been working on it for ages, but I haven't done much with it lately because I don't have time.
 
 A very small few of you reading this README might know me through [Hy](https://github.com/Hyperfresh), and I just want to make clear that while yes, we do maintain credit between each other's work, we mutually agreed to no longer be associated with each other ~~well, it was more like a burned bridge over a disagreement blown way out of proportion, but the effect is the same in the end~~.
