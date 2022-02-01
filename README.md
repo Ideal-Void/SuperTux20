@@ -3,7 +3,7 @@
 I like to program in my spare time. I'm actually part of a game development team too, [Weaververse Entertainment](https://github.com/Weaververse-Entertainment)
 
 #### Here are some programming languages I know
-|Node.js|Python|Bash|Web apps|
+|Node.js|Python|Bash|Web|
 |----|------|----------|------------------|
 ![JavaScript](src/js.png) | ![Python](src/py.png) 3.9 | ![Bash](src/bash.png) 5 | ![HTML](src/html.png)
 
