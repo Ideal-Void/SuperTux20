@@ -1,8 +1,9 @@
-### Hi, I'm Tux.
+# Hi, I'm Tux
 
 I like to program in my spare time. I'm actually part of a game development team too, [Weaververse Entertainment](https://github.com/Weaververse-Entertainment)
 
-#### Here are some programming languages I know
+## Here are some programming languages I know
+
 |Node.js|Python|Bash|Web|
 |----|------|----------|------------------|
 ![JavaScript](src/js.png) 16.9.1 | ![Python](src/py.png) 3.9.5 | ![Bash](src/bash.png) 5.0.17 | ![HTML](src/html.png) 5
